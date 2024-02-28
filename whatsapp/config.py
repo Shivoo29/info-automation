@@ -1,0 +1,1 @@
+CHROME_PROFILE_PATH = r'C:\Users\ASUS\AppData\Local\Google\Chrome\User Data\Default'
